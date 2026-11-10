@@ -1,9 +1,6 @@
 # Q-Block_Behavior
 Q-Block_Behavior: Blockchain-Based Adaptive Trust for Secure Learning in Internet-of-Behaviour-of-Things Networks
 
-# Q-Block_Behavior
-
-Simulation-driven modelling of blockchain-integrated quantum trust for poisoning-resilient federated learning in Internet-of-Behaviour-of-Things (IoBT) networks.
 
 ## Overview
 
